@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as an IOS devloper intern for Truist
+🔭 I’m currently working as an IOS developer intern for Truist
 
 👀 I’m looking for Fall 2023 Internships
 
