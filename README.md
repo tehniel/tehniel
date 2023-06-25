@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on my portfolio website with react
+🔭 I’m currently working as an IOS devloper intern for Truist
 
 👀 I’m looking for Fall 2023 Internships
 
-🌱 I’m currently learning to master Android Development 
+🌱 I’m currently learning to master mobile devloplpment
 
 💬 Ask me what movies I like and which I recommend 
 
