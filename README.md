@@ -1,8 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working as an IOS developer intern for Truist
 
-👀 I’m looking for Fall 2023 Internships
-
 🌱 I’m currently learning to master mobile devloplpment
 
 💬 Ask me what movies I like and which I recommend 
