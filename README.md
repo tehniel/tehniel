@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as an IOS developer intern for Truist
+🔭 I’m currently working as an IOS developer for Truist
 
 🌱 I’m currently learning to master mobile devloplpment
 
